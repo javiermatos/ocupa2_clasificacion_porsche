@@ -96,7 +96,7 @@ python test.py
 ![Result no porsche 4](docs/result_no_porsche_4.png)
 
 
-### Sobre la precisión en los resultados
+## Sobre la precisión en los resultados
 
 La precisión de la red neuronal no es todo lo buena que se desearía. Hay que aumentar el tamaño de datos de
 entrenamiento pero no de forma artificial a base de técnicas como el *data augmentation*. También podría jugarse con
@@ -109,6 +109,6 @@ Se puede realizar un análisis más profundo y mejorar los resultados pero por l
 fuera del objetivo que se persigue en este prototipo.
 
 
-### Notas
+## Notas
 
 Este proyecto ha sido realizado por Javier Matos para presentar al Hackathon de Ocupa2.
