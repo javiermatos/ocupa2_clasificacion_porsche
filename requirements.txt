@@ -1,0 +1,5 @@
+Augmentor==0.2.3
+future==0.17.1
+numpy==1.16.2
+Pillow==5.4.1
+tqdm==4.31.1
